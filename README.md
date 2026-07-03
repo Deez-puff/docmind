@@ -10,7 +10,6 @@
 > An AI-powered study companion that lets you upload any PDF and instantly get answers, summaries, quizzes, and topic explanations powered by RAG, ChromaDB, and Groq's Llama 3.3 70B.
 
 ---
-
 ## Table of Contents
 - [About the Project](#about-the-project)
 - [How It Works](#how-it-works)
