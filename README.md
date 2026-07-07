@@ -12,7 +12,6 @@
 ---
 
 ## Table of Contents
-
 - [About the Project](#about-the-project)
 - [How It Works](#how-it-works)
 - [Key Features](#key-features)
